@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/tissue-disease-syndrome---secondary.py
+inputModule3:
+  class: File
+  path: python/tissue-disease-diffuse---secondary.py
+inputModule4:
+  class: File
+  path: python/connective-tissue-disease---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
